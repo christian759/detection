@@ -83,7 +83,7 @@ if image is not None:
         st.markdown("Output Image")
         st.image(Image.fromarray(ans[0].plot()[:,:,::-1]))
         
-st.markdown("####")
+st.markdown("#")
 st.markdown("**BY CEO1**")
  
 
