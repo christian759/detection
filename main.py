@@ -82,6 +82,7 @@ if image is not None:
     with col6:
         st.markdown("Output Image")
         st.image(Image.fromarray(ans[0].plot()[:,:,::-1]))
+        
  
 
         
