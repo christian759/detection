@@ -66,7 +66,7 @@ with col4:
 
 st.divider()
 st.markdown("<h3>Detect Objects using yolo</h3>", unsafe_allow_html=True)
-st.markdown("##")
+st.markdown("")
 image = st.file_uploader("Select an image", type=["png", "jpg", "jpeg"])
 if image is not None:
     image = Image.open(image)
