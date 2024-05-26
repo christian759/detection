@@ -37,7 +37,7 @@ with st.sidebar:
             liste.append(opt.index(i))    
 
 st.markdown("YOLO (You Only Look Once) is a popular object detection model known for its speed and accuracy. It was first introduced by Joseph Redmon et al. in 2016 and has since undergone several iterations, the latest being YOLO v9.")
-st.markdown("####")
+st.markdown()
 st.markdown("The YOLO-World Model introduces an advanced, real-time Ultralytics YOLOv9-based approach for Open-Vocabulary Detection tasks. This innovation enables the detection of any object within an image based on descriptive texts")
 st.subheader("Demo on Yolo")
 st.divider()
