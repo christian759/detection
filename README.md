@@ -1,6 +1,4 @@
-# Object Detection Website 
-
-**[-link-]**(https://objects-detection.streamlit.app/)
+# Object Detection Website---https://objects-detection.streamlit.app/
 
 ## Overview
 
@@ -10,7 +8,7 @@ This Streamlit-based website allows users to upload images and perform object de
 
 - **Image Upload**: Easily upload images from your local device.
 - **Object Detection**: Automatically detect and label objects in the uploaded images.
-- **Results Display**: View the detected objects directly on the image with bounding boxes and labels.
+- **Results Display**: View the detected objects directly on the image with bhttps://github.com/christian759/detection/edit/main/README.mdounding boxes and labels.
 
 ## Installation
 
