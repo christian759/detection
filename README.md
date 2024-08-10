@@ -63,13 +63,16 @@ If you want to contribute to this project, please follow these guidelines:
 1. Fork the repository.
 2. Create a new branch 
 ```bash 
-git checkout -b feature/your-feature
+git checkout -b 'feature/your-feature'
 ```
 3. Commit your changes 
 ```bash
-git commit -am 'Add new feature
+git commit -am 'Add new feature'
 ```
-4. Push to the branch (`git push origin feature/your-feature`).
+4. Push to the branch 
+```bash
+git push origin 'feature/your-feature`
+```
 5. Create a new Pull Request.
 
 ## License
